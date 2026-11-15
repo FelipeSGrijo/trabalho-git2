@@ -15,7 +15,7 @@ button{
 table{
     margin-top:15;
     border-collapse:collapse;
-    width:600%;
+    width:600px;
 }
 th,td{
     border:#333333 1px solid;
